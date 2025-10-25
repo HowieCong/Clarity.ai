@@ -6,7 +6,9 @@
   <p align="center">
     <strong>一个现代化的智能AI对话平台，支持多种AI模型和虚拟人角色交互</strong>
   </p>
-
+  <p align="center">
+    <strong>体验链接：https://trae5qohp5sv.vercel.app</strong>
+  </p>
   <p align="center">
     <a href="#功能特性">功能特性</a> •
     <a href="#技术栈">技术栈</a> •
