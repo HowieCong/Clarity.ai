@@ -1,4 +1,4 @@
-# Clarity.ai - 智能AI对话平台
+# Clarity.ai
 
 <div align="center">
   <img src="public/favicon.svg" alt="Clarity.ai Logo" width="120" height="120">
@@ -8,6 +8,9 @@
   </p>
   <p align="center">
     <strong>体验链接：https://trae5qohp5sv.vercel.app</strong>
+  </p>
+  <p align="center">
+    <strong>文档链接：https://xiaopeng.feishu.cn/docx/Yrahd7vdnoXilYxXkJkc1rEEnAh</strong>
   </p>
   <p align="center">
     <a href="#功能特性">功能特性</a> •
